@@ -6,6 +6,6 @@ NetSim is a comprehensive C++ network simulation project designed to model and a
 
 - 💻 [Source Code](src/)
 
-## Documentation
+- 📚 ![NetSim Documentation](documentation/docs.pdf)
 
-<iframe src="documentation/docs.pdf" width="600" height="400" style="border: none;"></iframe>
+![](documentation/dir.png)
