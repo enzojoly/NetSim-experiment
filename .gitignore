@@ -40,6 +40,8 @@ Thumbs.db
 *~
 *.bak
 
-# NetSim specific ignores
-simulation_results.log
-simulation_snapshots.log
+# Ignore make with log script
+build_w_log.sh
+
+# Ignore .tex file docs.tex in documentation directory
+documentation/docs.tex
